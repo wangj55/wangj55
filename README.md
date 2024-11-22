@@ -1,9 +1,9 @@
-**👨‍💻 Techie | 🚴 Cyclist | ☕ Coffee Enthusiast**
+**👨‍💻 Tech | 🚴 Road Cyclist | ☕ Coffee Lover**
 
 **About Me:**
 
-- 🎓 CS Grad from RPI.
-- 🖥️ Crafted cool code at Bayer with TypeScript & React.js.
+- 🎓 Graduated from Rensselaer Polytechnic Institute, B.S. Computer Science.
+- 🖥️ Software Engineer at Shopee since 2024, interned at Bayer in 2023.
 - 📱 Built apps for campus shuttles & time management.
-- 🛠️ Skills: React.js, TypeScript, AWS, and more.
-- 🚴‍♂️ When not coding, you'll find me cycling or brewing a perfect pour-over!
+- 🛠️ Skills: React, React Native, Node.js, AWS, and more.
+- 🚴‍♂️ When not coding, you'll find me doing cycling training or brewing a pour-over!
